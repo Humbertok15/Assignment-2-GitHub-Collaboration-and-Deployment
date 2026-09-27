@@ -3,18 +3,11 @@
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
+# TechFlow Solutions Website
 
-```
-techflow-website/
-├── index.html          # Main HTML file
-├── styles.css          # CSS stylesheet
-├── script.js           # JavaScript functionality
-├── README.md          # Project documentation
-└── .github/
-    └── workflows/
-        └── deploy.yml  # GitHub Actions deployment workflow
-```
+[![Deploy to GitHub Pages](https://github.com/Humbertok15/Assignment-2-GitHub-Collaboration-and-Deployment/actions/workflows/deploy.yml/badge.svg)](https://github.com/Humbertok15/Assignment-2-GitHub-Collaboration-and-Deployment/actions/workflows/deploy.yml)
 
+A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 ## Features
 
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
